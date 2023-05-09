@@ -4,6 +4,7 @@ This is a school project in school of Design, the Hong Kong Polytechnic Universi
 Our system main consists of two components:
 1. An embedded wearable device with integrated sensors and Arduino;
 2. A robotic arm controlled by python.
+
 Notes: Communication is established between wearable device and robotic arm.
 
 ## File Information
