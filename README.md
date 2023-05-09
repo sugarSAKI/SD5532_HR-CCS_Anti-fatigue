@@ -1,7 +1,7 @@
 # SD5532_HR-CCS_Anti-fatigue
 ## Project Introduction
 This is a school project in school of Design, the Hong Kong Polytechnic University. Our concept is to design an HRC system to give real-time support feedback to heritage painting and calligraphy restorer' arm based on the level of muscle workload and motion intention.
-Our system main consists of two components:
+Our system mainly consists of two components:
 1. An embedded wearable device with integrated sensors and Arduino;
 2. A robotic arm controlled by python.
 
