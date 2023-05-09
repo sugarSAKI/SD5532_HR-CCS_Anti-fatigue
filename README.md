@@ -5,7 +5,9 @@ Our system mainly consists of two components:
 1. An embedded wearable device with integrated sensors and Arduino;
 2. A robotic arm controlled by python.
 
-Notes: Communication is established between wearable device and robotic arm.
+*Notes: Communication is established between wearable device and robotic arm.*
+
+🔗You can also watch our demo video here: 
 
 ## File Information
 ### Folder
