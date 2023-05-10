@@ -7,7 +7,7 @@ Our system mainly consists of two components:
 
 *Notes: Communication is established between wearable device and robotic arm.*
 
-🔗You can also watch our demo video here: 
+🔗You can also watch our demo video here: https://youtu.be/BbaDpAJkwEQ
 
 ## File Information
 ### Folder
